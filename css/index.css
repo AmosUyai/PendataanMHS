@@ -178,6 +178,7 @@
     outline: none;
     background-color: transparent;
     border-bottom: 3px solid #4286F5;
+    font-size: 18px;
 }
 .modal .right-modal .input-box button{
     width: 48%;
